@@ -1,0 +1,2 @@
+C:\Users\nsm\Documents\src\AniLife\Source Code\AniLife.API\obj\Debug\AniLife.API.vbproj.AssemblyReference.cache
+C:\Users\nsm\Documents\src\AniLife\Source Code\AniLife.API\obj\Debug\AniLife.API.vbproj.GenerateResource.cache
